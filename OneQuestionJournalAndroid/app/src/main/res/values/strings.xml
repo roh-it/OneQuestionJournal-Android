@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">One-Question Journal</string>
+    <string name="notification_text">Tap to add your answer!</string>
+    <string name="notification_channel_name">Daily Notification</string>
+    <string name="notification_work_name">DailyNotification</string>
+    <string name="settings">Settings</string>
+    <string name="notification_toggle">Toggle Notifications</string>
+    <string name="time_settings">Set Notification Time</string>
+</resources>

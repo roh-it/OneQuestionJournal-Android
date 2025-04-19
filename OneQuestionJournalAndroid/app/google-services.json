@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493503488999",
+    "project_id": "onequestionjournal-cb6bb",
+    "storage_bucket": "onequestionjournal-cb6bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493503488999:android:3ad34a4d2f2c3090475342",
+        "android_client_info": {
+          "package_name": "com.alcidev.onequestionjournal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdiMBW8BYVyg7WvYgEnm8Tm-zRURVJWAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
